@@ -132,12 +132,12 @@
 
 	$item = array();
 	$item['Keybind'] = "Win + grave";
-	$item['Action'] = "Floating window swap";
+	$item['Action'] = "Swap with Previous Floating Window";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + Tab";
-	$item['Action'] = "Floating window swap";
+	$item['Action'] = "Swap with Next Floating Window";
 	$list[] = $item;
 
 	$item = array();

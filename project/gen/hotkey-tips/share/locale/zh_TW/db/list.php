@@ -132,12 +132,12 @@
 
 	$item = array();
 	$item['Keybind'] = "Win + grave";
-	$item['Action'] = "平鋪視窗";
+	$item['Action'] = "跟上一個平鋪視窗交換位置";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Win + Tab";
-	$item['Action'] = "平鋪視窗";
+	$item['Action'] = "跟下一個平鋪視窗交換位置";
 	$list[] = $item;
 
 	$item = array();

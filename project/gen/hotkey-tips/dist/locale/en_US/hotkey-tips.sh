@@ -39,8 +39,8 @@ yad --width=1000 --height=600 \
 "Win + q" "Window Close" "#ffffff" "Monospace 16" \
 "Win + f" "Window Fullscreen" "#cccccc" "Monospace 16" \
 "Win + Esc" "Window Toggle Floating or Tiling" "#ffffff" "Monospace 16" \
-"Win + grave" "Floating window swap" "#cccccc" "Monospace 16" \
-"Win + Tab" "Floating window swap" "#ffffff" "Monospace 16" \
+"Win + grave" "Swap with Previous Floating Window" "#cccccc" "Monospace 16" \
+"Win + Tab" "Swap with Next Floating Window" "#ffffff" "Monospace 16" \
 "Win + Mouse Middle Click" "Window Toggle Floating or Tiling" "#cccccc" "Monospace 16" \
 "Win + Mouse Left Drag" "Window Move (on Floating)" "#ffffff" "Monospace 16" \
 "Win + Mouse Right Drag" "Window Resize (on Floating)" "#cccccc" "Monospace 16" \

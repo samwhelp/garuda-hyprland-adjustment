@@ -32,8 +32,8 @@
 | `Win + q` | Window Close |
 | `Win + f` | Window Fullscreen |
 | `Win + Esc` | Window Toggle Floating or Tiling |
-| `Win + grave` | Floating window swap |
-| `Win + Tab` | Floating window swap |
+| `Win + grave` | Swap with Previous Floating Window |
+| `Win + Tab` | Swap with Next Floating Window |
 | `Win + Mouse Middle Click` | Window Toggle Floating or Tiling |
 | `Win + Mouse Left Drag` | Window Move (on Floating) |
 | `Win + Mouse Right Drag` | Window Resize (on Floating) |
