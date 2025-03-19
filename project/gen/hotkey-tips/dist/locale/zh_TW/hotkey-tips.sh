@@ -41,27 +41,28 @@ yad --width=1000 --height=600 \
 "Win + Esc" "視窗 / 切換成浮動或平鋪狀態" "#ffffff" "Monospace 16" \
 "Win + grave" "平鋪視窗" "#cccccc" "Monospace 16" \
 "Win + Tab" "平鋪視窗" "#ffffff" "Monospace 16" \
-"Win + Mouse Left Drag" "視窗 / 移動 (浮動視窗)" "#cccccc" "Monospace 16" \
-"Win + Mouse Right Drag" "視窗 / 更改大小 (浮動視窗)" "#ffffff" "Monospace 16" \
-"Win + a" "聚焦切換至上一個視窗" "#cccccc" "Monospace 16" \
-"Win + s" "聚焦切換至下一個視窗" "#ffffff" "Monospace 16" \
-"Alt + a" "切換至上一個工作空間" "#cccccc" "Monospace 16" \
-"Alt + s" "切換至下一個工作空間" "#ffffff" "Monospace 16" \
-"Alt + 1-5" "切換至工作空間 1-5" "#cccccc" "Monospace 16" \
-"Win + 1-5" "將視窗移至工作空間 1-5" "#ffffff" "Monospace 16" \
-"Print" "螢幕截圖" "#cccccc" "Monospace 16" \
-"Win + Print" "螢幕截圖 / 目前聚焦的視窗" "#ffffff" "Monospace 16" \
-"Ctrl + Print" "螢幕截圖 / 選取的區域" "#cccccc" "Monospace 16" \
-"Fn + F5 (XF86MonBrightnessDown)" "亮度 / 減弱" "#ffffff" "Monospace 16" \
-"Fn + F6 (XF86MonBrightnessUp)" "亮度 / 增強" "#cccccc" "Monospace 16" \
-"Alt + Shift + [" "亮度 / 減弱" "#ffffff" "Monospace 16" \
-"Alt + Shift + ]" "亮度 / 增強" "#cccccc" "Monospace 16" \
-"Alt + Shift + v" "開啟音量控制器 (pavucontrol)" "#ffffff" "Monospace 16" \
-"Fn + F10 (XF86AudioMute)" "音量 / 切換靜音" "#cccccc" "Monospace 16" \
-"Fn + F11 (XF86AudioLowerVolume)" "音量 / 減小" "#ffffff" "Monospace 16" \
-"Fn + F12 (XF86AudioRaiseVolume)" "音量 / 增大" "#cccccc" "Monospace 16" \
-"Alt + m" "音量 / 切換靜音" "#ffffff" "Monospace 16" \
-"Alt + Shift + ," "音量 / 減小" "#cccccc" "Monospace 16" \
-"Alt + Shift + ." "音量 / 增大" "#ffffff" "Monospace 16" \
-"Alt + Ctrl + ," "音量 / 小幅減小" "#cccccc" "Monospace 16" \
-"Alt + Ctrl + ." "音量 / 小幅增大" "#ffffff" "Monospace 16" \
+"Win + Mouse Middle Click" "視窗 / 切換成浮動或平鋪狀態" "#cccccc" "Monospace 16" \
+"Win + Mouse Left Drag" "視窗 / 移動 (浮動視窗)" "#ffffff" "Monospace 16" \
+"Win + Mouse Right Drag" "視窗 / 更改大小 (浮動視窗)" "#cccccc" "Monospace 16" \
+"Win + a" "聚焦切換至上一個視窗" "#ffffff" "Monospace 16" \
+"Win + s" "聚焦切換至下一個視窗" "#cccccc" "Monospace 16" \
+"Alt + a" "切換至上一個工作空間" "#ffffff" "Monospace 16" \
+"Alt + s" "切換至下一個工作空間" "#cccccc" "Monospace 16" \
+"Alt + 1-5" "切換至工作空間 1-5" "#ffffff" "Monospace 16" \
+"Win + 1-5" "將視窗移至工作空間 1-5" "#cccccc" "Monospace 16" \
+"Print" "螢幕截圖" "#ffffff" "Monospace 16" \
+"Win + Print" "螢幕截圖 / 目前聚焦的視窗" "#cccccc" "Monospace 16" \
+"Ctrl + Print" "螢幕截圖 / 選取的區域" "#ffffff" "Monospace 16" \
+"Fn + F5 (XF86MonBrightnessDown)" "亮度 / 減弱" "#cccccc" "Monospace 16" \
+"Fn + F6 (XF86MonBrightnessUp)" "亮度 / 增強" "#ffffff" "Monospace 16" \
+"Alt + Shift + [" "亮度 / 減弱" "#cccccc" "Monospace 16" \
+"Alt + Shift + ]" "亮度 / 增強" "#ffffff" "Monospace 16" \
+"Alt + Shift + v" "開啟音量控制器 (pavucontrol)" "#cccccc" "Monospace 16" \
+"Fn + F10 (XF86AudioMute)" "音量 / 切換靜音" "#ffffff" "Monospace 16" \
+"Fn + F11 (XF86AudioLowerVolume)" "音量 / 減小" "#cccccc" "Monospace 16" \
+"Fn + F12 (XF86AudioRaiseVolume)" "音量 / 增大" "#ffffff" "Monospace 16" \
+"Alt + m" "音量 / 切換靜音" "#cccccc" "Monospace 16" \
+"Alt + Shift + ," "音量 / 減小" "#ffffff" "Monospace 16" \
+"Alt + Shift + ." "音量 / 增大" "#cccccc" "Monospace 16" \
+"Alt + Ctrl + ," "音量 / 小幅減小" "#ffffff" "Monospace 16" \
+"Alt + Ctrl + ." "音量 / 小幅增大" "#cccccc" "Monospace 16" \

@@ -38,30 +38,31 @@ yad --width=1000 --height=600 \
 "Alt + Ctrl + t" "Launch Terminal (kitty)" "#cccccc" "Monospace 16" \
 "Win + q" "Window Close" "#ffffff" "Monospace 16" \
 "Win + f" "Window Fullscreen" "#cccccc" "Monospace 16" \
-"Win + Esc" "Window Toggle Float" "#ffffff" "Monospace 16" \
+"Win + Esc" "Window Toggle Floating or Tiling" "#ffffff" "Monospace 16" \
 "Win + grave" "Floating window swap" "#cccccc" "Monospace 16" \
 "Win + Tab" "Floating window swap" "#ffffff" "Monospace 16" \
-"Win + Mouse Left Drag" "Window Move (on Floating)" "#cccccc" "Monospace 16" \
-"Win + Mouse Right Drag" "Window Resize (on Floating)" "#ffffff" "Monospace 16" \
-"Win + a" "Window Switch Prev" "#cccccc" "Monospace 16" \
-"Win + s" "Window Switch Next" "#ffffff" "Monospace 16" \
-"Alt + a" "Workspace Switch Prev" "#cccccc" "Monospace 16" \
-"Alt + s" "Workspace Switch Next" "#ffffff" "Monospace 16" \
-"Alt + 1-5" "Workspace Switch to 1-5" "#cccccc" "Monospace 16" \
-"Win + 1-5" "Window Send to 1-5" "#ffffff" "Monospace 16" \
-"Print" "Screenshot" "#cccccc" "Monospace 16" \
-"Win + Print" "Screenshot Current Window" "#ffffff" "Monospace 16" \
-"Ctrl + Print" "Screenshot Selected Area" "#cccccc" "Monospace 16" \
-"Fn + F5 (XF86MonBrightnessDown)" "Brightness Decrease" "#ffffff" "Monospace 16" \
-"Fn + F6 (XF86MonBrightnessUp)" "Brightness Increase" "#cccccc" "Monospace 16" \
-"Alt + Shift + [" "Brightness Decrease" "#ffffff" "Monospace 16" \
-"Alt + Shift + ]" "Brightness Increase" "#cccccc" "Monospace 16" \
-"Alt + Shift + v" "Launch Volume Control (pavucontrol)" "#ffffff" "Monospace 16" \
-"Fn + F10 (XF86AudioMute)" "Volume Toggle Mute" "#cccccc" "Monospace 16" \
-"Fn + F11 (XF86AudioLowerVolume)" "Volume Decrease" "#ffffff" "Monospace 16" \
-"Fn + F12 (XF86AudioRaiseVolume)" "Volume Increase" "#cccccc" "Monospace 16" \
-"Alt + m" "Volume Toggle Mute" "#ffffff" "Monospace 16" \
-"Alt + Shift + ," "Volume Decrease" "#cccccc" "Monospace 16" \
-"Alt + Shift + ." "Volume Increase" "#ffffff" "Monospace 16" \
-"Alt + Ctrl + ," "Volume Decrease Slowly" "#cccccc" "Monospace 16" \
-"Alt + Ctrl + ." "Volume Increase Slowly" "#ffffff" "Monospace 16" \
+"Win + Mouse Middle Click" "Window Toggle Floating or Tiling" "#cccccc" "Monospace 16" \
+"Win + Mouse Left Drag" "Window Move (on Floating)" "#ffffff" "Monospace 16" \
+"Win + Mouse Right Drag" "Window Resize (on Floating)" "#cccccc" "Monospace 16" \
+"Win + a" "Window Switch Prev" "#ffffff" "Monospace 16" \
+"Win + s" "Window Switch Next" "#cccccc" "Monospace 16" \
+"Alt + a" "Workspace Switch Prev" "#ffffff" "Monospace 16" \
+"Alt + s" "Workspace Switch Next" "#cccccc" "Monospace 16" \
+"Alt + 1-5" "Workspace Switch to 1-5" "#ffffff" "Monospace 16" \
+"Win + 1-5" "Window Send to 1-5" "#cccccc" "Monospace 16" \
+"Print" "Screenshot" "#ffffff" "Monospace 16" \
+"Win + Print" "Screenshot Current Window" "#cccccc" "Monospace 16" \
+"Ctrl + Print" "Screenshot Selected Area" "#ffffff" "Monospace 16" \
+"Fn + F5 (XF86MonBrightnessDown)" "Brightness Decrease" "#cccccc" "Monospace 16" \
+"Fn + F6 (XF86MonBrightnessUp)" "Brightness Increase" "#ffffff" "Monospace 16" \
+"Alt + Shift + [" "Brightness Decrease" "#cccccc" "Monospace 16" \
+"Alt + Shift + ]" "Brightness Increase" "#ffffff" "Monospace 16" \
+"Alt + Shift + v" "Launch Volume Control (pavucontrol)" "#cccccc" "Monospace 16" \
+"Fn + F10 (XF86AudioMute)" "Volume Toggle Mute" "#ffffff" "Monospace 16" \
+"Fn + F11 (XF86AudioLowerVolume)" "Volume Decrease" "#cccccc" "Monospace 16" \
+"Fn + F12 (XF86AudioRaiseVolume)" "Volume Increase" "#ffffff" "Monospace 16" \
+"Alt + m" "Volume Toggle Mute" "#cccccc" "Monospace 16" \
+"Alt + Shift + ," "Volume Decrease" "#ffffff" "Monospace 16" \
+"Alt + Shift + ." "Volume Increase" "#cccccc" "Monospace 16" \
+"Alt + Ctrl + ," "Volume Decrease Slowly" "#ffffff" "Monospace 16" \
+"Alt + Ctrl + ." "Volume Increase Slowly" "#cccccc" "Monospace 16" \

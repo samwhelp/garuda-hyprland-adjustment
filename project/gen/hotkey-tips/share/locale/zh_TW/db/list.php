@@ -141,6 +141,11 @@
 	$list[] = $item;
 
 	$item = array();
+	$item['Keybind'] = "Win + Mouse Middle Click";
+	$item['Action'] = "視窗 / 切換成浮動或平鋪狀態";
+	$list[] = $item;
+
+	$item = array();
 	$item['Keybind'] = "Win + Mouse Left Drag";
 	$item['Action'] = "視窗 / 移動 (浮動視窗)";
 	$list[] = $item;

@@ -34,6 +34,7 @@
 | `Win + Esc` | 視窗 / 切換成浮動或平鋪狀態 |
 | `Win + grave` | 平鋪視窗 |
 | `Win + Tab` | 平鋪視窗 |
+| `Win + Mouse Middle Click` | 視窗 / 切換成浮動或平鋪狀態 |
 | `Win + Mouse Left Drag` | 視窗 / 移動 (浮動視窗) |
 | `Win + Mouse Right Drag` | 視窗 / 更改大小 (浮動視窗) |
 | `Win + a` | 聚焦切換至上一個視窗 |
