@@ -22,8 +22,8 @@
 | `Alt + Shift + g` | 開啟檔案管理器 (pcmanfm-qt) |
 | `Alt + Shift + e` | 開啟 (geany) |
 | `Alt + Shift + b` | 開啟網頁瀏覽器 (firedragon) |
-| `Alt + Shift + s` | 開啟外觀設定 (lxappearance) |
-| `Alt + Ctrl + s` | 開啟顯示設定 (lxrandr) |
+| `Alt + Shift + s` | 開啟外觀設定 (nwg-look) |
+| `Alt + Ctrl + s` | 開啟顯示設定 (wdisplays) |
 | `Alt + Enter` | 開啟 Terminal (xfce4-terminal) |
 | `Alt + Shift + a` | 開啟 Terminal (xfce4-terminal) |
 | `Alt + Ctrl + a` | 開啟 Terminal (sakur) |
@@ -32,7 +32,8 @@
 | `Win + q` | 視窗 / 關閉 |
 | `Win + f` | 視窗 / 切換全螢幕 |
 | `Win + Esc` | 視窗 / 切換成浮動或平鋪狀態 |
-| `Win + grave` | 聚焦切換至浮動視窗或平鋪視窗 |
+| `Win + grave` | 平鋪視窗 |
+| `Win + Tab` | 平鋪視窗 |
 | `Win + Mouse Left Drag` | 視窗 / 移動 (浮動視窗) |
 | `Win + Mouse Right Drag` | 視窗 / 更改大小 (浮動視窗) |
 | `Win + a` | 聚焦切換至上一個視窗 |

@@ -29,8 +29,8 @@ yad --width=1000 --height=600 \
 "Alt + Shift + g" "開啟檔案管理器 (pcmanfm-qt)" "#ffffff" "comfortaa 16" \
 "Alt + Shift + e" "開啟 (geany)" "#cccccc" "comfortaa 16" \
 "Alt + Shift + b" "開啟網頁瀏覽器 (firedragon)" "#ffffff" "comfortaa 16" \
-"Alt + Shift + s" "開啟外觀設定 (lxappearance)" "#cccccc" "comfortaa 16" \
-"Alt + Ctrl + s" "開啟顯示設定 (lxrandr)" "#ffffff" "comfortaa 16" \
+"Alt + Shift + s" "開啟外觀設定 (nwg-look)" "#cccccc" "comfortaa 16" \
+"Alt + Ctrl + s" "開啟顯示設定 (wdisplays)" "#ffffff" "comfortaa 16" \
 "Alt + Enter" "開啟 Terminal (xfce4-terminal)" "#cccccc" "comfortaa 16" \
 "Alt + Shift + a" "開啟 Terminal (xfce4-terminal)" "#ffffff" "comfortaa 16" \
 "Alt + Ctrl + a" "開啟 Terminal (sakur)" "#cccccc" "comfortaa 16" \
@@ -39,28 +39,29 @@ yad --width=1000 --height=600 \
 "Win + q" "視窗 / 關閉" "#ffffff" "comfortaa 16" \
 "Win + f" "視窗 / 切換全螢幕" "#cccccc" "comfortaa 16" \
 "Win + Esc" "視窗 / 切換成浮動或平鋪狀態" "#ffffff" "comfortaa 16" \
-"Win + grave" "聚焦切換至浮動視窗或平鋪視窗" "#cccccc" "comfortaa 16" \
-"Win + Mouse Left Drag" "視窗 / 移動 (浮動視窗)" "#ffffff" "comfortaa 16" \
-"Win + Mouse Right Drag" "視窗 / 更改大小 (浮動視窗)" "#cccccc" "comfortaa 16" \
-"Win + a" "聚焦切換至上一個視窗" "#ffffff" "comfortaa 16" \
-"Win + s" "聚焦切換至下一個視窗" "#cccccc" "comfortaa 16" \
-"Alt + a" "切換至上一個工作空間" "#ffffff" "comfortaa 16" \
-"Alt + s" "切換至下一個工作空間" "#cccccc" "comfortaa 16" \
-"Alt + 1-5" "切換至工作空間 1-5" "#ffffff" "comfortaa 16" \
-"Win + 1-5" "將視窗移至工作空間 1-5" "#cccccc" "comfortaa 16" \
-"Print" "螢幕截圖" "#ffffff" "comfortaa 16" \
-"Win + Print" "螢幕截圖 / 目前聚焦的視窗" "#cccccc" "comfortaa 16" \
-"Ctrl + Print" "螢幕截圖 / 選取的區域" "#ffffff" "comfortaa 16" \
-"Fn + F5 (XF86MonBrightnessDown)" "亮度 / 減弱" "#cccccc" "comfortaa 16" \
-"Fn + F6 (XF86MonBrightnessUp)" "亮度 / 增強" "#ffffff" "comfortaa 16" \
-"Alt + Shift + [" "亮度 / 減弱" "#cccccc" "comfortaa 16" \
-"Alt + Shift + ]" "亮度 / 增強" "#ffffff" "comfortaa 16" \
-"Alt + Shift + v" "開啟音量控制器 (pavucontrol)" "#cccccc" "comfortaa 16" \
-"Fn + F10 (XF86AudioMute)" "音量 / 切換靜音" "#ffffff" "comfortaa 16" \
-"Fn + F11 (XF86AudioLowerVolume)" "音量 / 減小" "#cccccc" "comfortaa 16" \
-"Fn + F12 (XF86AudioRaiseVolume)" "音量 / 增大" "#ffffff" "comfortaa 16" \
-"Alt + m" "音量 / 切換靜音" "#cccccc" "comfortaa 16" \
-"Alt + Shift + ," "音量 / 減小" "#ffffff" "comfortaa 16" \
-"Alt + Shift + ." "音量 / 增大" "#cccccc" "comfortaa 16" \
-"Alt + Ctrl + ," "音量 / 小幅減小" "#ffffff" "comfortaa 16" \
-"Alt + Ctrl + ." "音量 / 小幅增大" "#cccccc" "comfortaa 16" \
+"Win + grave" "平鋪視窗" "#cccccc" "comfortaa 16" \
+"Win + Tab" "平鋪視窗" "#ffffff" "comfortaa 16" \
+"Win + Mouse Left Drag" "視窗 / 移動 (浮動視窗)" "#cccccc" "comfortaa 16" \
+"Win + Mouse Right Drag" "視窗 / 更改大小 (浮動視窗)" "#ffffff" "comfortaa 16" \
+"Win + a" "聚焦切換至上一個視窗" "#cccccc" "comfortaa 16" \
+"Win + s" "聚焦切換至下一個視窗" "#ffffff" "comfortaa 16" \
+"Alt + a" "切換至上一個工作空間" "#cccccc" "comfortaa 16" \
+"Alt + s" "切換至下一個工作空間" "#ffffff" "comfortaa 16" \
+"Alt + 1-5" "切換至工作空間 1-5" "#cccccc" "comfortaa 16" \
+"Win + 1-5" "將視窗移至工作空間 1-5" "#ffffff" "comfortaa 16" \
+"Print" "螢幕截圖" "#cccccc" "comfortaa 16" \
+"Win + Print" "螢幕截圖 / 目前聚焦的視窗" "#ffffff" "comfortaa 16" \
+"Ctrl + Print" "螢幕截圖 / 選取的區域" "#cccccc" "comfortaa 16" \
+"Fn + F5 (XF86MonBrightnessDown)" "亮度 / 減弱" "#ffffff" "comfortaa 16" \
+"Fn + F6 (XF86MonBrightnessUp)" "亮度 / 增強" "#cccccc" "comfortaa 16" \
+"Alt + Shift + [" "亮度 / 減弱" "#ffffff" "comfortaa 16" \
+"Alt + Shift + ]" "亮度 / 增強" "#cccccc" "comfortaa 16" \
+"Alt + Shift + v" "開啟音量控制器 (pavucontrol)" "#ffffff" "comfortaa 16" \
+"Fn + F10 (XF86AudioMute)" "音量 / 切換靜音" "#cccccc" "comfortaa 16" \
+"Fn + F11 (XF86AudioLowerVolume)" "音量 / 減小" "#ffffff" "comfortaa 16" \
+"Fn + F12 (XF86AudioRaiseVolume)" "音量 / 增大" "#cccccc" "comfortaa 16" \
+"Alt + m" "音量 / 切換靜音" "#ffffff" "comfortaa 16" \
+"Alt + Shift + ," "音量 / 減小" "#cccccc" "comfortaa 16" \
+"Alt + Shift + ." "音量 / 增大" "#ffffff" "comfortaa 16" \
+"Alt + Ctrl + ," "音量 / 小幅減小" "#cccccc" "comfortaa 16" \
+"Alt + Ctrl + ." "音量 / 小幅增大" "#ffffff" "comfortaa 16" \
