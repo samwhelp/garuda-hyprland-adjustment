@@ -44,9 +44,9 @@ yad --width=1000 --height=600 \
 "Win + Mouse Middle Click" "Window Toggle Floating or Tiling" "#cccccc" "Monospace 16" \
 "Win + Mouse Left Drag" "Window Move (on Floating)" "#ffffff" "Monospace 16" \
 "Win + Mouse Right Drag" "Window Resize (on Floating)" "#cccccc" "Monospace 16" \
-"Win + a" "Window Switch Prev" "#ffffff" "Monospace 16" \
+"Win + a" "Window Switch Previous" "#ffffff" "Monospace 16" \
 "Win + s" "Window Switch Next" "#cccccc" "Monospace 16" \
-"Alt + a" "Workspace Switch Prev" "#ffffff" "Monospace 16" \
+"Alt + a" "Workspace Switch Previous" "#ffffff" "Monospace 16" \
 "Alt + s" "Workspace Switch Next" "#cccccc" "Monospace 16" \
 "Alt + 1-5" "Workspace Switch to 1-5" "#ffffff" "Monospace 16" \
 "Win + 1-5" "Window Send to 1-5" "#cccccc" "Monospace 16" \
