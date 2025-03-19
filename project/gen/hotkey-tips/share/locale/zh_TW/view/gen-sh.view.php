@@ -3,7 +3,7 @@
 
 yad --width=1000 --height=600 \
 --center \
---title="Garuda i3wm 按鍵綁定" \
+--title="Garuda Hyprland 按鍵綁定" \
 --no-buttons \
 --list \
 --column=按鍵綁定: \
@@ -12,7 +12,7 @@ yad --width=1000 --height=600 \
 --column=@font@ \
 --timeout=15 \
 --timeout-indicator=right \
-"" "" "#6500c1" "comfortaa 1" \
-"" "15秒後即將關閉此提示對話框！" "#ff0000" "comfortaa 16" \
-""  "按下「ESC」關閉此提示對話框" "#00ffff" "comfortaa 16" \
+"" "" "#6500c1" "Monospace 1" \
+"" "15秒後即將關閉此提示對話框！" "#ff0000" "Monospace 16" \
+""  "按下「ESC」關閉此提示對話框" "#00ffff" "Monospace 16" \
 <?php echo($_Data_['List']); ?>

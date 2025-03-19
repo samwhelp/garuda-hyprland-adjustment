@@ -29,7 +29,7 @@ class App {
 	protected $_Color_1 = '#cccccc';
 	protected $_Color_2 = '#ffffff';
 
-	protected $_Font = 'comfortaa 16';
+	protected $_Font = 'Monospace 16';
 
 	protected function is_even ($val)
 	{

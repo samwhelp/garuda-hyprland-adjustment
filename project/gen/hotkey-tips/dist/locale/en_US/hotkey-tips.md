@@ -1,6 +1,6 @@
 
 
-# Garuda i3wm Keybindings
+# Garuda Hyprland Keybindings
 
 
 ## Hotkey

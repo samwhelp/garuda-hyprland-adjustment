@@ -1,6 +1,6 @@
 
 
-# Garuda i3 按鍵綁定
+# Garuda Hyprland 按鍵綁定
 
 
 ## 快捷鍵
