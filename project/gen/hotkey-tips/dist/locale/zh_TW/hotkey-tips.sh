@@ -33,7 +33,7 @@ yad --width=1000 --height=600 \
 "Alt + Ctrl + s" "開啟顯示設定 (wdisplays)" "#ffffff" "Monospace 16" \
 "Alt + Enter" "開啟 Terminal (xfce4-terminal)" "#cccccc" "Monospace 16" \
 "Alt + Shift + a" "開啟 Terminal (xfce4-terminal)" "#ffffff" "Monospace 16" \
-"Alt + Ctrl + a" "開啟 Terminal (sakur)" "#cccccc" "Monospace 16" \
+"Alt + Ctrl + a" "開啟 Terminal (sakura)" "#cccccc" "Monospace 16" \
 "Alt + Shift + t" "開啟 Terminal (qterminal)" "#ffffff" "Monospace 16" \
 "Alt + Ctrl + t" "開啟 Terminal (kitty)" "#cccccc" "Monospace 16" \
 "Win + q" "視窗 / 關閉" "#ffffff" "Monospace 16" \
