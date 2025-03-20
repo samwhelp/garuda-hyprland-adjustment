@@ -41,9 +41,9 @@ yad --width=1000 --height=600 \
 "Win + Esc" "視窗 / 切換成浮動或平鋪狀態" "#ffffff" "Monospace 16" \
 "Win + grave" "跟上一個平鋪視窗交換位置" "#cccccc" "Monospace 16" \
 "Win + Tab" "跟下一個平鋪視窗交換位置" "#ffffff" "Monospace 16" \
-"Win + Mouse Middle Click" "視窗 / 切換成浮動或平鋪狀態" "#cccccc" "Monospace 16" \
-"Win + Mouse Left Drag" "視窗 / 移動 (浮動視窗)" "#ffffff" "Monospace 16" \
-"Win + Mouse Right Drag" "視窗 / 更改大小 (浮動視窗)" "#cccccc" "Monospace 16" \
+"Win + 滑鼠中鍵雙擊" "視窗 / 切換成浮動或平鋪狀態" "#cccccc" "Monospace 16" \
+"Win + 滑鼠左鍵拖曳" "視窗 / 移動 (浮動視窗)" "#ffffff" "Monospace 16" \
+"Win + 滑鼠右鍵拖曳" "視窗 / 更改大小 (浮動視窗)" "#cccccc" "Monospace 16" \
 "Win + a" "聚焦切換至上一個視窗" "#ffffff" "Monospace 16" \
 "Win + s" "聚焦切換至下一個視窗" "#cccccc" "Monospace 16" \
 "Alt + a" "切換至上一個工作空間" "#ffffff" "Monospace 16" \
