@@ -17,8 +17,8 @@ yad --width=1000 --height=600 \
 "Alt + Shift + o" "開啟熱鍵提示" "#ffffff" "Monospace 16" \
 "Alt + Shift + x" "登出" "#cccccc" "Monospace 16" \
 "Alt + Shift + z" "離開" "#ffffff" "Monospace 16" \
-"Alt + Shift + c" "i3 重新啟動" "#cccccc" "Monospace 16" \
-"Alt + Ctrl + c" "i3 重新載入設定" "#ffffff" "Monospace 16" \
+"Alt + Shift + c" "Hyprland 重新啟動" "#cccccc" "Monospace 16" \
+"Alt + Ctrl + c" "Hyprland 重新載入設定" "#ffffff" "Monospace 16" \
 "Alt + F1" "開啟主選單" "#cccccc" "Monospace 16" \
 "Alt + F2" "開啟應用程式啟動器" "#ffffff" "Monospace 16" \
 "Alt + F3" "開啟視窗選單" "#cccccc" "Monospace 16" \

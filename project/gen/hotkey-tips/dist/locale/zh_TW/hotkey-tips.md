@@ -10,8 +10,8 @@
 | `Alt + Shift + o` | 開啟熱鍵提示 |
 | `Alt + Shift + x` | 登出 |
 | `Alt + Shift + z` | 離開 |
-| `Alt + Shift + c` | i3 重新啟動 |
-| `Alt + Ctrl + c` | i3 重新載入設定 |
+| `Alt + Shift + c` | Hyprland 重新啟動 |
+| `Alt + Ctrl + c` | Hyprland 重新載入設定 |
 | `Alt + F1` | 開啟主選單 |
 | `Alt + F2` | 開啟應用程式啟動器 |
 | `Alt + F3` | 開啟視窗選單 |

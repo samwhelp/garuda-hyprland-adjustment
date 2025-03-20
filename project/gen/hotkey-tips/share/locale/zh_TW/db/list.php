@@ -22,12 +22,12 @@
 
 	$item = array();
 	$item['Keybind'] = "Alt + Shift + c";
-	$item['Action'] = "i3 重新啟動";
+	$item['Action'] = "Hyprland 重新啟動";
 	$list[] = $item;
 
 	$item = array();
 	$item['Keybind'] = "Alt + Ctrl + c";
-	$item['Action'] = "i3 重新載入設定";
+	$item['Action'] = "Hyprland 重新載入設定";
 	$list[] = $item;
 
 	$item = array();
