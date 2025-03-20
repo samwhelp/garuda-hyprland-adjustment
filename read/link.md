@@ -21,9 +21,10 @@ has_children: true
 
 ## Garuda Linux / Edition
 
-| Garuda Linux Edition |
-| -------------------- |
-| [Garuda Hyprland](https://garudalinux.org/installation?edition=hyprland) |
+| Garuda Linux Edition / Settings |
+| ---- |
+| [Garuda Common Settings](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-common-settings) |
+| [Garuda Hyprland](https://gitlab.com/garuda-linux/themes-and-settings/settings/garuda-hyprland-settings) |
 
 
 
